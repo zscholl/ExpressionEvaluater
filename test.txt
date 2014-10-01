@@ -1,0 +1,17 @@
+bal []{()<>}[]
+bal ^<_< >_>^
+bal <*)))-{ ><(((*> ><>
+bal (>_<) (>_<)
+bal {(<([])>(){})}[]()<>
+bal {S(p[a<m>m]e)r}
+eval 0 1 +
+eval 4 1 -
+eval 9 3 /
+eval 7 abs
+eval 142 100 %
+eval -42 u-
+eval -42 abs
+eval 1764 sqrt
+eval 1 2 + 4 * 5 + 3 - 4 10 sp 470 -
+eval 12 13 14 sp 6 + u- abs 2000 %
+eval 2 sqrt
